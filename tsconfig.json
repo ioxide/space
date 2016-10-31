@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "forceConsistentCasingInFileNames": true,
+    "module": "commonjs",
+    "outDir": "./bin/",
+    "pretty": true,
+    "rootDir": "./src/",
+    "sourceMap": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
